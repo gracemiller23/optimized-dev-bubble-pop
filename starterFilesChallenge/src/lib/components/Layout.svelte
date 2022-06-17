@@ -4,7 +4,7 @@
 
 
 <main>
-<!-- slots let Svelte know what to do with children components that Layout wraps -->
+<!-- Slots let Svelte know what to do with children components that Layout wraps -->
 	<slot />
 </main>
 <!-- You could add your own info to the footer component! -->

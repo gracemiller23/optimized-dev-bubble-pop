@@ -1,6 +1,8 @@
 <script>
 	//TODO: Set a bit of state to track whether the bubble is popped or not.
-	//TODO: Write a function that pops the bubble and make sure that it pops on click.
+
+	//TODO: Write a function that pops the bubble and make sure that it pops on click below.
+
 	//TODO: Add to the score store each time the bubble pops!
 </script>
 

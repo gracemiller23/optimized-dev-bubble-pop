@@ -19,7 +19,11 @@ export const lastScore = writable(savedScore || null);
 
 lastScore.subscribe((score) => (localStorage.score = score));
 
-//TODO: Create a store to save the total number of bubbles saved by users to localStorage
+//TODO: Add a writable store for totalBubbles.
 
-//TODO: Create a writable store for totalBubbles using the saved value from localStorage or an initial value. Then subscribe it to the localStorage value.
+//TODO: Create a store to save the total number of bubbles saved by users in Input.svelte to localStorage.
+
+//TODO: Update the totalBubbles store to use the saved value from localStorage or an initial value. 
+
+//TODO: Subscribe totalBubbles to the localStorage value.
 
