@@ -1,17 +1,10 @@
 <script>
-	import './lib/styles.css';
+	import './lib/styles.css'
+	import Layout from './lib/components/Layout.svelte'
+	import Bubbles from './lib/components/bubbles/Bubbles.svelte'
 </script>
 
-<main>
+<Layout>
 	<h1>Welcome to Bubble Pop</h1>
-</main>
-
-<style>
-	main {
-		display: grid;
-		min-height: 100vh;
-		place-items: center;
-		place-content: center;
-		gap: var(--size-4);
-	}
-</style>
+	<Bubbles />
+</Layout>

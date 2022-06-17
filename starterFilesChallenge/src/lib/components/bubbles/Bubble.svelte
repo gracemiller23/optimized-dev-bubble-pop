@@ -1,3 +1,10 @@
+<script>
+	import { popTransition } from '../../utils/popTransition';
+
+
+</script>
+
+
 <div class="positioner">
 	<div class="positioner-inner">
 			<div class="bubble" />
