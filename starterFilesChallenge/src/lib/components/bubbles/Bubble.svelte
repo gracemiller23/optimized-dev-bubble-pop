@@ -1,7 +1,7 @@
 <script>
 	//TODO: Set a bit of state to track whether the bubble is popped or not.
 
-	//TODO: Write a function that pops the bubble and make sure that it pops on click below.
+	//TODO: Write a function that pops the bubble below when it's clicked.
 
 	//TODO: Add to the score store each time the bubble pops!
 </script>
@@ -14,6 +14,7 @@
 	</div>
 </div>
 
+<!-- These styles are scoped to this component! -->
 <style>
 	.positioner {
 		--bubble-size: calc(200px * var(--scale));
