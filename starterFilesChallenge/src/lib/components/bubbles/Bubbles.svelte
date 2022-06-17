@@ -1,14 +1,9 @@
 <script>
-	import { random } from '../../utils/random.js';
 	import Bubble from './Bubble.svelte';
+    //HINT: You can import the random function from the utils folder to help with challenge step 3
 
 </script>
 
-
-<!-- Svelte's style props allow you to set CSS custom properties -->
-<Bubble
---scale={random(2, 3.5) / 10}
---offset="{i * random(8, 10)}%"
---delay="{random(1000, 5000)}ms"
---speed="{random(10, 20)}s"
-/>
+<!-- TODO: Make the bubble component multiply!-->
+<!-- TODO: Use style props to set CSS custom properties that randomize bubble size and move them up the screen-->
+<Bubble/>
