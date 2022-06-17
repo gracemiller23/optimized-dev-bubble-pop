@@ -14,7 +14,7 @@
 	</div>
 </div>
 
-<!-- These styles are scoped to this component! -->
+<!-- Note: These styles are scoped to this component! -->
 <style>
 	.positioner {
 		--bubble-size: calc(200px * var(--scale));
