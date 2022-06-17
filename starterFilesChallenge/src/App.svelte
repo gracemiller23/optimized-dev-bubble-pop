@@ -3,7 +3,7 @@
 	import Layout from './lib/components/Layout.svelte'
 	import Bubbles from './lib/components/bubbles/Bubbles.svelte'
 	import GameBar from './lib/components/GameBar.svelte'
-	import Input from './lib/components/Input.svelte'
+	import Input from './lib/components/Inputs.svelte'
 </script>
 
 <Layout>
