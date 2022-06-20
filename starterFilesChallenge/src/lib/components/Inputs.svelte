@@ -3,7 +3,7 @@
 
 	<label>
 		Winning Score:
-		<!-- TODO: Add two-way binding between the value of this input and the finalScore store -->
+		<!-- TODO Step 7: Add two-way binding between the value of this input and the finalScore store -->
 		<input 
 			class="glass"
 			min="1" 
@@ -15,7 +15,7 @@
 
 	<label>
 		Total Bubbles:
-		<!-- TODO: Add two-way binding between the value of this input and the totalBubbles store -->
+		<!-- TODO Step 7: Add two-way binding between the value of this input and the totalBubbles store -->
 		<input
 			class="glass"
 			min="1"

@@ -1,15 +1,15 @@
 <script>
-	//TODO: Set a bit of state to track whether the bubble is popped or not.
+	//TODO Step 1: Set a bit of state to track whether the bubble is popped or not.
 
-	//TODO: Write a function that pops the bubble below when it's clicked.
+	//TODO Step 1: Write a function that pops the bubble below when it's clicked.
 
-	//TODO: Add to the score store each time the bubble pops!
+	//TODO Step 5: Add to the score store each time the bubble pops!
 </script>
 
 
 <div class="positioner">
 	<div class="positioner-inner">
-		<!-- TODO: Conditionally only show the bubble while it is not popped. -->
+		<!-- TODO Step 1: Conditionally only show the bubble while it is not popped. -->
 			<div class="bubble" />
 	</div>
 </div>
