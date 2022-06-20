@@ -1,3 +1,7 @@
+<script>
+	//TODO Step 6: Import your stores.
+</script>
+
 <aside class="glass">
 	<h2>Game Settings</h2>
 
